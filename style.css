@@ -1,0 +1,42 @@
+.images {
+    width:265px;
+    height:370px;
+}
+h1 {
+    text-align:center;
+    font-weight:bold;
+    font-size:60px;
+    color: red;
+    text-shadow: 3px 3px 3px gray;
+    background-image:url("hand-painted-watercolor.webp") ;
+}
+
+.footer{
+    font-style: italic;
+    color:beige;
+    text-align: center;
+    width:100%;
+    bottom: 0;
+    position: fixed;
+    background-color:rgb(255, 0, 102);
+    height:50px;
+    font-size: 25px;
+    font-weight: bold;
+    text-shadow: 3px 3px 3px yellow;
+
+}
+
+#mainbody {
+background-image:url("hand-painted-watercolor.webp") ;
+height: 100%;
+text-align: center;
+padding: 20px;
+}
+
+#button1{
+    width:100%;
+    height:40px;
+    font-size:25px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
